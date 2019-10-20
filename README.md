@@ -1,7 +1,9 @@
 ![pfring][pfring_logo] ![ntop][ntop_logo]
 # PF_RING™
 
-[![Build Status](https://travis-ci.org/ntop/PF_RING.png?branch=dev)](https://travis-ci.org/ntop/PF_RING)
+
+[![Build Status](https://travis-ci.org/ntop/PF_RING.png?branch=dev)](https://travis-ci.org/ntop/PF_RING) [![License: GPL v3](https://img.shields.io/badge/License-LGPLv2.1-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+
 
 
 ### Introduction
